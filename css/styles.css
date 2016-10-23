@@ -1,0 +1,19 @@
+
+body {
+ background-color: #FFFFFF ;
+ font-family: 'Gudea', sans-serif;
+ text-align: center; 
+}
+
+hr {
+   border-top: 1px solid #4c4c4c ;
+}
+
+p {
+ font-size: 18px;
+ color: #616161;
+}
+
+h4 {
+	padding-top: 50px;
+}
